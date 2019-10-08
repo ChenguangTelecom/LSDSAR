@@ -46,7 +46,7 @@ LSDSAR-line segment detector for SAR images.
 This code is with the publication below:
 
  "LSDSAR, a Markovian a contrario framework for line segment detection in SAR images",
- by Chenguang Liu, Rémy Abergel, Yann Gousseau and Florence Tupin. Pattern Recognition, 2018.
+ by Chenguang Liu, Rémy Abergel, Yann Gousseau and Florence Tupin. Pattern Recognition, 2019.
 
 *NOTICE: This program is modified from the source code of LSD:
 *"LSD: a Line Segment Detector" by Rafael Grompone von Gioi,
